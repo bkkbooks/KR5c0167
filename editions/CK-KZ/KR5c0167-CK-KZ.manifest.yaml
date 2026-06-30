@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5c0167/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5c0167/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上老君年譜要略
+  date: '2015-08-29 00:53:17.781602'
+  source:
+    repository: kanripo
+    path: KR5c0167
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0167_000-CK-KZ.yaml, hash: 'sha256:62d741585ac4f428100bcf7637478cd0fafdd9350aa284b1eb9f3a4455ed20f5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0167_000-CK-KZ.markers.yaml, hash: 'sha256:ec580de66d7d915d6a516464c9b8d06aa22c6c3d7be9d2ddee19b1a106f86646'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0167_CK-KZ_01p053a
+    span:
+    - body
+    - 0
+    - 3657
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:c45bc1b3168f1a6e0fff7fd8990b575e8e02044f04169fe82989e00d79267070
