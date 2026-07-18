@@ -23,7 +23,7 @@ assets:
   parts:
   - {seq: 0, filename: KR5c0167_000-CK-KZ-jye.yaml, hash: 'sha256:565e416df79d9a11ccd2944ee8b24361977b4d86423c50446b572574eec6b1f0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5c0167_000-CK-KZ-jye.markers.yaml, hash: 'sha256:2606a5bc16160dcaf4d33466a551ea011ba85e72f9c14e6198b2dc3775491159'}
+  - {seq: 0, role: markers, filename: assets/KR5c0167_000-CK-KZ-jye.markers.yaml, hash: 'sha256:c1da30c51e23d837f67c5fd674fdf483cd34a39680a1d5053d7041bce6370bfb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -35,4 +35,4 @@ table_of_contents:
   label: 太上老¶¶¶君年譜要略
   type: section
   level: 1
-hash: sha256:46daef62797d3b8ab0089650c9c4869aa48d84cd2a0c6662bde2e80cc0ea47a0
+hash: sha256:4b5118381da7b83346a97a484b93321b188b7f2a86bb388bfc2dc20bc53a84c8
